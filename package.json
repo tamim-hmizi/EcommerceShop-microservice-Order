@@ -1,0 +1,21 @@
+{
+  "name": "ecommerceshop-microservice-order",
+  "version": "1.0.0",
+  "description": "Ecommerce Shop microservice for orders.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamim-hmizi/EcommerceShop-microservice-Order.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/tamim-hmizi/EcommerceShop-microservice-Order/issues"
+  },
+  "homepage": "https://github.com/tamim-hmizi/EcommerceShop-microservice-Order#readme"
+}
